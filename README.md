@@ -34,7 +34,7 @@ cd ~/gcp_free && bash start.sh
 ### 环境要求
 
 - 已安装 Google Cloud SDK（`gcloud`）
-- 已登录并具备对应项目权限（建议先 `gcloud auth login`）
+- 已登录并具备对应项目权限（建议先 `gcloud auth application-default login`）
 - Python 3
 ### 运行脚本
 
